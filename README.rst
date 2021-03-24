@@ -1,7 +1,7 @@
 **Notice: Development on this repository is currently on pause during our v3 rearchitecture. Please see https://github.com/storj/storj for ongoing v3 development.**
 
 ################
-storj-python-sdk
+czarcoin-python-sdk
 ################
 
 |pypi|_ |Build|_ |CodeHealth|_ |Coverage|_ |Requirements|_ |Documentation|_
